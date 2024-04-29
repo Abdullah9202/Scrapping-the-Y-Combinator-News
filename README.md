@@ -23,3 +23,7 @@ To run the script, simply execute it using Python:
 
 ```bash
 python script_name.py
+```
+
+## Credits
+Developed By Abdullah Khurram <https://www.github.com/Abdullah9202>
